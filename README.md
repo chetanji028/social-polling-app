@@ -19,6 +19,6 @@ A real-time voting app using Next.js, TailwindCSS, Supabase, and TypeScript.
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/social-polling-app.git
+git clone https://github.com/chetanji028/social-polling-app.git
 cd social-polling-app
 npm install
